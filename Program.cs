@@ -2,10 +2,42 @@
 
 namespace learnC_
 {
+    struct PhanSo
+    {
+        public int TuSo;
+        public int MauSo;
+    }
     class Program
     {       
+        public static PhanSo NhapPhanSo()
+        {
+            PhanSo kq;
+            Console.Write("Nhap tu so: ");
+            kq.TuSo = int.Parse(Console.ReadLine());
+            Console.Write("Nhap mau so: ");
+            kq.MauSo = int.Parse(Console.ReadLine());
+            return kq;
+        }
+        public static PhanSo TinhTongPhanSo(PhanSo a, PhanSo b)
+        {
+            PhanSo kq;
+            kq.TuSo = a.TuSo * b.MauSo + a.MauSo * b.TuSo;
+            kq.MauSo = a.MauSo * b.MauSo;
+            return kq;
+        }
+        public static string XuatPhanSo (PhanSo a)
+        {
+            return $"{a.TuSo}/{a.MauSo}";
+        }
         static void Main(string[] args)
         {
+            //Nhap phan so
+            PhanSo a, b, kq;
+            a = NhapPhanSo();
+            b = NhapPhanSo();
+            kq = TinhTongPhanSo(a, b);
+            Console.WriteLine(XuatPhanSo(kq));
+            /*
             int [,] A = XL_MaTran.NhapMaTran();
             Console.WriteLine();
             XL_MaTran.XuatMaTran(A);
