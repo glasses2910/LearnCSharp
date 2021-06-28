@@ -2,41 +2,35 @@
 
 namespace learnC_
 {
-    struct PhanSo
-    {
-        public int TuSo;
-        public int MauSo;
-    }
+    
     class Program
     {       
-        public static PhanSo NhapPhanSo()
-        {
-            PhanSo kq;
-            Console.Write("Nhap tu so: ");
-            kq.TuSo = int.Parse(Console.ReadLine());
-            Console.Write("Nhap mau so: ");
-            kq.MauSo = int.Parse(Console.ReadLine());
-            return kq;
-        }
-        public static PhanSo TinhTongPhanSo(PhanSo a, PhanSo b)
-        {
-            PhanSo kq;
-            kq.TuSo = a.TuSo * b.MauSo + a.MauSo * b.TuSo;
-            kq.MauSo = a.MauSo * b.MauSo;
-            return kq;
-        }
-        public static string XuatPhanSo (PhanSo a)
-        {
-            return $"{a.TuSo}/{a.MauSo}";
-        }
+       
         static void Main(string[] args)
         {
-            //Nhap phan so
+            DaGiac dg;
+            dg = XL_DaGiac.NhapDaGiac();
+            double kq = XL_DaGiac.TinhChuVi(dg);
+            Console.WriteLine(kq);
+            /*
+            TamGiac ABC;
+            ABC = XL_TamGiac.NhapTamGiac();
+            double kq;
+            kq = XL_TamGiac.ChuViTamGiac(ABC);
+            Console.WriteLine(kq);
+            /*
+            DiemXY a, b;
+            double kq;
+            a = XL_Diem.NhapDiemXY();
+            b = XL_Diem.NhapDiemXY();
+            kq = XL_Diem.TinhKC2DiemXY(a, b);
+            Console.WriteLine(kq);
+            /* Nhap phan so
             PhanSo a, b, kq;
-            a = NhapPhanSo();
-            b = NhapPhanSo();
-            kq = TinhTongPhanSo(a, b);
-            Console.WriteLine(XuatPhanSo(kq));
+            a = XL_PhanSo.NhapPhanSo();
+            b = XL_PhanSo.NhapPhanSo();
+            kq = XL_PhanSo.TinhTongPhanSo(a, b);
+            Console.WriteLine(XL_PhanSo.XuatPhanSo(kq));
             /*
             int [,] A = XL_MaTran.NhapMaTran();
             Console.WriteLine();
