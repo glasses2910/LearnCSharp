@@ -1,0 +1,32 @@
+C:\Users\Pdoi 6\Documents\Code\learnC#\bin\Debug\net5.0\learnC#.exe
+C:\Users\Pdoi 6\Documents\Code\learnC#\bin\Debug\net5.0\learnC#.deps.json
+C:\Users\Pdoi 6\Documents\Code\learnC#\bin\Debug\net5.0\learnC#.runtimeconfig.json
+C:\Users\Pdoi 6\Documents\Code\learnC#\bin\Debug\net5.0\learnC#.runtimeconfig.dev.json
+C:\Users\Pdoi 6\Documents\Code\learnC#\bin\Debug\net5.0\learnC#.dll
+C:\Users\Pdoi 6\Documents\Code\learnC#\bin\Debug\net5.0\ref\learnC#.dll
+C:\Users\Pdoi 6\Documents\Code\learnC#\bin\Debug\net5.0\learnC#.pdb
+C:\Users\Pdoi 6\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.csproj.AssemblyReference.cache
+C:\Users\Pdoi 6\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pdoi 6\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.AssemblyInfoInputs.cache
+C:\Users\Pdoi 6\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.AssemblyInfo.cs
+C:\Users\Pdoi 6\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.csproj.CoreCompileInputs.cache
+C:\Users\Pdoi 6\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.dll
+C:\Users\Pdoi 6\Documents\Code\learnC#\obj\Debug\net5.0\ref\learnC#.dll
+C:\Users\Pdoi 6\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.pdb
+C:\Users\Pdoi 6\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.genruntimeconfig.cache
+C:\Users\MinhDuy\Documents\Code\learnC#\bin\Debug\net5.0\learnC#.exe
+C:\Users\MinhDuy\Documents\Code\learnC#\bin\Debug\net5.0\learnC#.deps.json
+C:\Users\MinhDuy\Documents\Code\learnC#\bin\Debug\net5.0\learnC#.runtimeconfig.json
+C:\Users\MinhDuy\Documents\Code\learnC#\bin\Debug\net5.0\learnC#.runtimeconfig.dev.json
+C:\Users\MinhDuy\Documents\Code\learnC#\bin\Debug\net5.0\learnC#.dll
+C:\Users\MinhDuy\Documents\Code\learnC#\bin\Debug\net5.0\ref\learnC#.dll
+C:\Users\MinhDuy\Documents\Code\learnC#\bin\Debug\net5.0\learnC#.pdb
+C:\Users\MinhDuy\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.csproj.AssemblyReference.cache
+C:\Users\MinhDuy\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinhDuy\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.AssemblyInfoInputs.cache
+C:\Users\MinhDuy\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.AssemblyInfo.cs
+C:\Users\MinhDuy\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.csproj.CoreCompileInputs.cache
+C:\Users\MinhDuy\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.dll
+C:\Users\MinhDuy\Documents\Code\learnC#\obj\Debug\net5.0\ref\learnC#.dll
+C:\Users\MinhDuy\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.pdb
+C:\Users\MinhDuy\Documents\Code\learnC#\obj\Debug\net5.0\learnC#.genruntimeconfig.cache
