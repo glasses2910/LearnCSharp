@@ -10,7 +10,6 @@ namespace learnC_
     class XL_Diem
 
     {
-       
         public static DiemXY NhapDiemXY()
         {
             DiemXY a;
